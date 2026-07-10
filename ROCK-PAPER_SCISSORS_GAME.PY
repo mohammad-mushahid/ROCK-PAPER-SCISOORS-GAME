@@ -16,4 +16,4 @@ elif user == "scisoors" and computer == "paper":
     print("You win")
 
 else:
- print("You lose")
+ print("You losee")
